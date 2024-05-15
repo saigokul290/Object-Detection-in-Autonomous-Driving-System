@@ -22,7 +22,7 @@ First, clone the repository to your local machine:
 ```sh
 git clone https://github.com/saigokul290/Object-Detection-in-Autonomous-Driving-System.git
 cd Object-Detection-in-Autonomous-Driving-System
-
+```
 ## Hardware Requirements
 
 - Arduino board (e.g., Arduino Uno)
@@ -37,10 +37,6 @@ cd Object-Detection-in-Autonomous-Driving-System
 - Python 3.x
 - Additional Python libraries (listed in `requirements.txt`)
 
-### Installing Python Libraries
-
-Install the required Python libraries using pip:
-
-```sh
-pip install -r requirements.txt
+## NOTE:
+-This is an ongoing project with few fixation requirements so no snapshots are provided 
 
