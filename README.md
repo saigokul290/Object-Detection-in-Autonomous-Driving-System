@@ -7,9 +7,9 @@ This project implements an object detection system for autonomous driving using 
 This project aims to enhance the capabilities of autonomous driving systems by integrating an object detection mechanism using Arduino. The system uses sensors and cameras to detect objects and make driving decisions accordingly.
 
 ## Credits and Members of the project:
-Sai Gokul KP (@saigokul290)
-Roshan Immanuel (@RoshFps)
-Rohan S
+1. Sai Gokul KP (@saigokul290)
+2. Roshan Immanuel (@RoshFps)
+3. Rohan S
 
 ## Features
 
